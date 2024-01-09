@@ -1,0 +1,44 @@
+#logo{
+   font-family: 'Shantell Sans', cursive;
+   font-size: 50px;
+   
+}
+.logo1{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+
+.color{
+    color: red;
+    font-family: 'Tilt Prism', cursive;
+}
+#container{
+    background-color: black;
+    
+    
+    
+}
+#photo{
+    background-image: url("AirAsia.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#sum{
+      background-image: url("AirAsia.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#col{
+    background-color: whitesmoke;
+    
+}
+.book{
+    font-family: 'Tilt Neon', cursive;
+}
+.ho{
+    font-family: 'IBM Plex Sans', sans-serif;
+    
+    
+}

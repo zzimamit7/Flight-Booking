@@ -1,0 +1,24 @@
+#logo{
+   font-family: 'Shantell Sans', cursive;
+   font-size: 50px;
+   
+}
+.logo1{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+
+.color{
+    color: red;
+    font-family: 'Tilt Prism', cursive;
+}
+#container{
+    background-color: black;
+    
+    
+    
+}
+.h1{
+    font-family: 'Sono', sans-serif;
+    color: red;
+}
